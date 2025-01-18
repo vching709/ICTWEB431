@@ -7,7 +7,7 @@ body {
 table {
 	width: 30%;
     border-collapse: separate; /* Changed from collapse to separate */ 
-	border-spacing: 0px; 	/* Added border-spacing for increased cell spacing */
+	border-spacing: 20px; 	/* Added border-spacing for increased cell spacing */
     border: 1px solid black;
 	margin-top: 20px; 
 	background-color: #fff; 
@@ -21,7 +21,7 @@ th, td {
 }
 
 th { 
-	background-color: #ffcc00; /* Bright color for column headings */ 
+	background-color: #FFFF00; /* Bright color for column headings */ 
 	/*background-color: white;*/
 	color: black;
 }
