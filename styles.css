@@ -21,8 +21,7 @@ th, td {
 }
 
 th { 
-	background-color: #FFFF00; /* Bright color for column headings */ 
-	/*background-color: white;*/
+	background-color: #FFFF00; /* Bright color for column headings */ 	
 	color: black;
 }
 
